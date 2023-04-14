@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Visitor Count](https://profile-counter.glitch.me/zglinus-for-nix/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zglinus-for-nix&layout=compact)](https://github.com/zglinus-for-nix/github-readme-stats)
